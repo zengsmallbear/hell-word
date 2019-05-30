@@ -1,2 +1,2 @@
-# hell-word
+# hello-word
 first use
